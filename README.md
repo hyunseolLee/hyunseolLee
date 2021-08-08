@@ -29,6 +29,5 @@ skills : -
   - Deep learning object recognition, image forgery prevention and image export management
 
 ## Certificate
--
 
 ## Language
