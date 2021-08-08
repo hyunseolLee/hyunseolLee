@@ -9,13 +9,13 @@ hyunseolLee/hyunseolLee is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-name : Hyunseol Lee
-age : 24 (25, Korean age)
-college : Yeungnam University (graduated)
-major : Computer Engineering
-occupation : -
-work experience : -
-skills : -
+name : Hyunseol Lee  
+age : 24 (25, Korean age)  
+college : Yeungnam University (graduated)  
+major : Computer Engineering  
+occupation : -  
+work experience : -  
+skills : -  
 
 ## Education
 - Course name : [New Deal Jobs] Non-face-to-face service 5G / AI video security
