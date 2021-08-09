@@ -18,7 +18,7 @@ work experience : -
 skills : -  
 
 ## Education
-- Course name : [New Deal Jobs] Non-face-to-face service 5G / AI video security
+#### Course name : [New Deal Jobs] Non-face-to-face service 5G / AI video security
 - Hosted by : Korea IT Education Center Daegu Government Support Free Education Center IT Vocational School
 - Period : 2021.3.15 ~ 2021.09.16
 - Training content
