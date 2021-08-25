@@ -29,5 +29,8 @@ skills -
     - Establishment and operation of security system
 
 ## Certificate
+- 정보처리기사(data processing engineer)
+  - Pass date : 2021.08.20
+  - Issuing organization : 한국산업인력공단
 
 ## Language
