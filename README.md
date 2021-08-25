@@ -33,4 +33,9 @@ skills -
   - Pass date : 2021.08.20
   - Issuing organization : 한국산업인력공단
 
+## Portfolio & Private Study
+- Getting Started with AI
+  - reference : 이경택, 방성수, 안상준. 파이썬 딥러닝 파이토치 (Python Deep Learning PyTorch). NY: 정보문화사, 2020년 10월 08. 310 p
+- [Kaggle] Cassava Leaf Disease Classification
+
 ## Language
