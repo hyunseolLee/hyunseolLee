@@ -30,8 +30,8 @@ skills -
 
 ## Certificate
 - 정보처리기사(data processing engineer)
-  - Pass date : 2021.08.20
-  - Issuing organization : 한국산업인력공단
+  - pass date : 2021.08.20
+  - issuing organization : 한국산업인력공단
 
 ## Portfolio & Private Study
 - Getting Started with AI
