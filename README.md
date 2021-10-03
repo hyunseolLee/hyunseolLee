@@ -32,6 +32,9 @@ skills -
 - 정보처리기사(data processing engineer)
   - pass date : 2021.08.20
   - issuing organization : 한국산업인력공단
+- SQLD (국가 공인 SQL 개발자)
+  - pass data : 2021.10.01
+  - issuing organization : 한국산업인력공단
 
 ## Portfolio & Private Study
 - Getting Started with AI
@@ -39,3 +42,4 @@ skills -
 - [Kaggle] Cassava Leaf Disease Classification
 
 ## Language
+- Python
