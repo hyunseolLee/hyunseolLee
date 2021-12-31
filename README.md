@@ -29,7 +29,7 @@ skills : Python, PyTorch
     - Establishment and operation of security system
 
 ## Certificate
-- 정보처리기사(data processing engineer)
+- data processing engineer (정보처리기사)
   - pass date : 2021.08.20
   - issuing organization : 한국산업인력공단
 - SQLD (국가 공인 SQL 개발자)
