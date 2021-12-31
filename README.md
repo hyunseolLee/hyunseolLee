@@ -13,7 +13,7 @@ name : Hyunseol Lee
 age : 24 (25, Korean age)  
 college : Yeungnam University (graduated)  
 major : Computer Engineering  
-occupation : AI Development Researcher, Asan Medical Center, Seoul  
+occupation : AI Development Researcher, Asan Medical Center, Seoul (2021.10.01 ~)  
 work experience : 0  
 skills : Python, PyTorch  
 
