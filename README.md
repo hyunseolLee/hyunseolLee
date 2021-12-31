@@ -15,7 +15,7 @@ college : Yeungnam University (graduated)
 major : Computer Engineering  
 occupation - AI Development Researcher, Asan Medical Center, Seoul
 work experience - 0
-skills - 
+skills - Python, PyTorch
 
 ## Education
 - ### Course name : [New Deal Jobs] Non-face-to-face service 5G / AI video security
@@ -33,7 +33,7 @@ skills -
   - pass date : 2021.08.20
   - issuing organization : 한국산업인력공단
 - SQLD (국가 공인 SQL 개발자)
-  - pass data : 2021.10.01
+  - pass date : 2021.10.01
   - issuing organization : 한국산업인력공단
 
 ## Portfolio & Private Study
