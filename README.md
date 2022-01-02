@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 name : Hyunseol Lee  
-age : 24 (25, Korean age)  
+age : 25 (26, Korean age)  
 college : Yeungnam University (graduated)  
 major : Computer Engineering  
 occupation : AI Development Researcher, Asan Medical Center, Seoul (2021.10.01 ~)  
